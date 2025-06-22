@@ -3,6 +3,7 @@
 This project analyzes credit card transaction data specifically aimed at fraud detection using rule-based systems. It utilizes PostgreSQL for data storage and Grafana for insightful, interactive visualizations.
 
 ---
+<img src="/Users/vaidehipawar/Desktop/grafana/assets/Dashboard.png" alt="Dashboard Screenshot" width="600px"/>
 
 ## 🚀 Overview
 
